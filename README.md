@@ -1,2 +1,2 @@
 ## Certificates :
-- Folder untuk menyimpan sertifikat
+- Folder containing my certificates
